@@ -1,2 +1,2 @@
 # Theory
-Refcards/Theory. http://github.com/Refcards/Theory
+Refcards/Theory. https://github.com/Refcards/Theory
