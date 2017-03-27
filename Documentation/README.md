@@ -1,3 +1,3 @@
 ### REFCARDS / THEORY / DOCUMENTATION
-![CARDBOXES] (https://historiotheque.files.wordpress.com/2017/03/17545238_10208670539104497_1754105541534357219_o.jpg)
+![CARDBOXES](https://historiotheque.files.wordpress.com/2017/03/17545238_10208670539104497_1754105541534357219_o.jpg)
 - [...]
